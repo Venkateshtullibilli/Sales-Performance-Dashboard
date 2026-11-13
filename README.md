@@ -53,6 +53,10 @@ The objective is to transform raw sales data into meaningful business insights, 
 - Dashboard Design
 - Data Visualization
 
+## 📸 Dashboard Preview
+
+![Sales Performance Dashboard](Screenshots/Dashboard.png)
+
 ## 💡 Key Learning Outcomes
 
 - Improved practical knowledge of Excel data analysis.
